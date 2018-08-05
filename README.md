@@ -46,8 +46,8 @@ My set of of links to assets concerning NDS homebrew development
   </ul>
   
   <li> Heretic3DS https://github.com/elhobbs/heretic3ds </li>
-  
   <li> DS2x86 (x86 emulator)</li>
+  
   <ul>
     <li> https://dsx86.patrickaalto.com/ </li>
     <li> https://gbatemp.net/threads/ds2x86-version-0-05-released.281935/ </li>
@@ -55,7 +55,7 @@ My set of of links to assets concerning NDS homebrew development
     <li> Fallout 1 https://www.youtube.com/watch?v=Xnfidy-n4jk </li>
   </ul>
   
-</ul>
+  </ul>
 
   <li> OpenTTD </li>
   <ul>
@@ -66,16 +66,13 @@ My set of of links to assets concerning NDS homebrew development
 
   <li> Quake 2 </li>
   <ul>
-  
-  <li> https://github.com/masterfeizz/Quake2CTR </li>
-  <li> https://www.youtube.com/watch?v=wOtIDmAplmU </li>
-  
+    <li> https://github.com/masterfeizz/Quake2CTR </li>
+    <li> https://www.youtube.com/watch?v=wOtIDmAplmU </li>
   </ul>
 
   <li> Quake 1 https://www.youtube.com/watch?v=2rspyM9Sk1g</li>
   <li> LemmingsDS http://www.mrdictionary.net/lemmings/ </li>
   <li> DSLiero http://dsliero.dennisvanzwieten.com/ </li>
-  
   
   <li> Doom </li>
   <ul>
@@ -91,19 +88,16 @@ My set of of links to assets concerning NDS homebrew development
   </ul>
   
   <li> DSLinux </li>
+ 
   <ul>
-  
-  <li> https://www.youtube.com/watch?v=T-cMdRKsuas </li>
-  <li> https://github.com/ipwndev/DSLinux </li>
-  
+    <li> https://www.youtube.com/watch?v=T-cMdRKsuas </li>
+    <li> https://github.com/ipwndev/DSLinux </li>
   </ul>
 
   <li> NDS Oscilloscope https://github.com/Dabunew/NDS-Oscilloscope </li>
-
   <li> NDS web browser https://github.com/deeice/bunjalloo</li>
   <li> 3DS to PC controller https://github.com/jwarby/3ds-to-pc-controller </li>
   <li> YoutubeDS https://github.com/Gericom/YoutubeDS </li>
-
   <li> 3DS Remote desktop https://gbatemp.net/threads/homebrew-3ds-remote-desktop.381646/ </li>
 
 
