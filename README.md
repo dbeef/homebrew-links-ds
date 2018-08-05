@@ -108,6 +108,7 @@ My set of of links to assets concerning NDS homebrew development
     <li> http://dsdatabase.org/showthread.php/680-Starcraft-DS-Homebrew-IMPRESSIVE!-Starlite/page4 </li>
   </ul>
 
+  <li> A Touch of War http://www.atouchofwar.com/AToW.php </li>
 
 <h1 align="center"> External GPIO hardware </h1>
 
