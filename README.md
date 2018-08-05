@@ -7,6 +7,7 @@ My set of of links to assets concerning NDS homebrew development
   
   <li> devkitPro toolchain installation https://devkitpro.org/wiki/Getting_Started </li>
   <li> introduction to DS programming https://patater.com/manual/ </li>
+  <li> https://en.wikipedia.org/wiki/R4_cartridge </li>
   <li> libnds NDS examples https://github.com/devkitPro/nds-examples</li>
   <li> libctru N3DS examples https://github.com/devkitPro/3ds-examples </li>
   <li> DSMenu++ </li>
@@ -126,6 +127,7 @@ My set of of links to assets concerning NDS homebrew development
 <h1 align="center"> Some history </h1>
 
 <ul>
+  <li> https://en.wikipedia.org/wiki/List_of_Nintendo_DS_and_3DS_flash_cartridges </li>
   <li> http://www.nds-gear.com/history-nintendo-ds-cards/ </li>
   <li> http://www.nds-gear.com/history-nintendo-ds-r4-card/ </li>   
   <li> 3DS Hacking scene history https://gbatemp.net/threads/3ds-hacking-scene-history.443396/ </li>
