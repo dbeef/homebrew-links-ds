@@ -104,6 +104,7 @@ My set of of links to assets concerning NDS homebrew development
     <li> https://www.dailymotion.com/video/x2po6nz </li>
     <li> https://www.youtube.com/watch?v=_MODBsQLMp4 </li>
     <li> https://gbatemp.net/threads/starlite-ds.74504/ </li>
+    <li> http://dsdatabase.org/showthread.php/680-Starcraft-DS-Homebrew-IMPRESSIVE!-Starlite/page4 </li>
   </ul>
 
 
