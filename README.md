@@ -1,6 +1,31 @@
 # homebrew-links-ds
 My set of of links to assets concerning NDS homebrew development
 
+<h1 align="center"> Starter kit </h1>
+
+<h1 align="center"> Homebrew software </h1>
+
+<p align="center"> Made by me </p> 
+
+<ul> 
+  
+  <li> SpelunkyDS - https://github.com/dbeef/spelunky-ds </li>
+  <li> StreamerDS - https://github.com/dbeef/streamer-ds </li>
+  <li> TemperatureDS - https://github.com/dbeef/temperature-ds </li>
+  <li> MicroDS - https://github.com/dbeef/micro-ds </li>
+  <li> PCcontrollerDS - https://github.com/dbeef/pc-controller-ds </li>
+  
+</ul>
+
+<p align="center"> Other </p>
+
+<ul>
+
+
+  
+</ul>
+
+
 <h1 align="center"> External GPIO hardware </h1>
 
 <ul>
