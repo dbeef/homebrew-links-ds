@@ -76,7 +76,6 @@ My set of of links to assets concerning NDS homebrew development
   <li> LemmingsDS http://www.mrdictionary.net/lemmings/ </li>
   <li> DSLiero http://dsliero.dennisvanzwieten.com/ </li>
   
-  ///
   
   <li> Doom </li>
   <ul>
@@ -94,8 +93,8 @@ My set of of links to assets concerning NDS homebrew development
   <li> DSLinux </li>
   <ul>
   
-    <li> https://www.youtube.com/watch?v=T-cMdRKsuas </ul>
-    <li> https://github.com/ipwndev/DSLinux </ul>
+  <li> https://www.youtube.com/watch?v=T-cMdRKsuas </li>
+  <li> https://github.com/ipwndev/DSLinux </li>
   
   </ul>
 
