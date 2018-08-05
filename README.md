@@ -17,6 +17,7 @@ My set of of links to assets concerning NDS homebrew development
   </ul>
   
   <li> Index of homebrew software https://wiki.gbatemp.net/wiki/List_of_3DS_homebrew </li>
+ 
   
 </ul>
 
@@ -97,6 +98,13 @@ My set of of links to assets concerning NDS homebrew development
   <li> 3DS to PC controller https://github.com/jwarby/3ds-to-pc-controller </li>
   <li> YoutubeDS https://github.com/Gericom/YoutubeDS </li>
   <li> 3DS Remote desktop https://gbatemp.net/threads/homebrew-3ds-remote-desktop.381646/ </li>
+  
+  <li> Starlite (Starcraft clone) - dead, unfinished </li>
+  <ul>
+    <li> https://www.dailymotion.com/video/x2po6nz </li>
+    <li> https://www.youtube.com/watch?v=_MODBsQLMp4 </li>
+    <li> https://gbatemp.net/threads/starlite-ds.74504/ </li>
+  </ul>
 
 
 <h1 align="center"> External GPIO hardware </h1>
@@ -110,6 +118,15 @@ My set of of links to assets concerning NDS homebrew development
   <li> Arduino to NDS interface https://hackaday.com/2010/02/05/arduino-to-nintendo-ds-interface/ </li>
   <li> Arduino to NDS interface https://www.instructables.com/id/Connect-NDSL-with-ARDUINO/ </li>
 
+</ul>
+
+<h1 align="center"> Some history </h1>
+
+<ul>
+  <li> http://www.nds-gear.com/history-nintendo-ds-cards/ </li>
+  <li> http://www.nds-gear.com/history-nintendo-ds-r4-card/ </li>   
+  <li> 3DS Hacking scene history https://gbatemp.net/threads/3ds-hacking-scene-history.443396/ </li>
+  
 </ul>
 
 <h1 align="center"> Not specifically DS related, but still homebrew </h1>
