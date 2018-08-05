@@ -6,6 +6,7 @@ My set of of links to assets concerning NDS homebrew development
 <ul>
   
   <li> devkitPro toolchain installation https://devkitpro.org/wiki/Getting_Started </li>
+  <li> introduction to DS programming https://patater.com/manual/ </li>
   <li> libnds NDS examples https://github.com/devkitPro/nds-examples</li>
   <li> libctru N3DS examples https://github.com/devkitPro/3ds-examples </li>
   <li> DSMenu++ </li>
