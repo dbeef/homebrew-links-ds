@@ -29,8 +29,8 @@ My set of of links to assets concerning NDS homebrew development
 
 <ul>
 
-  <ul> 
   <li> PortalDS / Portal3DS </li>
+  <ul>
     <li> PortalDS https://github.com/smealum/portalDS </li>
     <li> Portal3DS https://github.com/smealum/portal3DS </li>
     <li> https://www.youtube.com/watch?v=TlXYyjhOYQU </li>
