@@ -54,8 +54,6 @@ My set of of links to assets concerning NDS homebrew development
     <li> Mortal Kombat https://www.youtube.com/watch?v=ZhNVlTzlRq4 </li>
     <li> Fallout 1 https://www.youtube.com/watch?v=Xnfidy-n4jk </li>
   </ul>
-  
-  </ul>
 
   <li> OpenTTD </li>
   <ul>
@@ -114,7 +112,7 @@ My set of of links to assets concerning NDS homebrew development
 
 </ul>
 
-<h1 align="center"> Non-DS, but still homebrew </h1>
+<h1 align="center"> Not specifically DS related, but still homebrew </h1>
 
 <ul>
   
