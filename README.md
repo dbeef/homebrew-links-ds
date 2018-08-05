@@ -127,6 +127,7 @@ My set of of links to assets concerning NDS homebrew development
 <h1 align="center"> Some history </h1>
 
 <ul>
+  <li> https://en.wikipedia.org/wiki/Flash_cartridge </li>
   <li> https://en.wikipedia.org/wiki/List_of_Nintendo_DS_and_3DS_flash_cartridges </li>
   <li> http://www.nds-gear.com/history-nintendo-ds-cards/ </li>
   <li> http://www.nds-gear.com/history-nintendo-ds-r4-card/ </li>   
