@@ -5,7 +5,7 @@ My set of of links to assets concerning NDS homebrew development
 
 <ul>
   
-  <li> Nintendo DS Slot-2 (GBA) DMA to FTDI PFIFO Interface https://lukeskaff.com/nintendo-ds-slot-2-gba-dma-to-ftdi-pfifo-interface/ </li>
+  <li> Nintendo DS DMA to FTDI PFIFO Interface https://lukeskaff.com/nintendo-ds-slot-2-gba-dma-to-ftdi-pfifo-interface/ </li>
   <li> Nintendo DS I/O "Kludge" https://www.youtube.com/watch?v=Sf9B8NemvAk </li>
   <li> NDS slot GPIO cartridge - DS brut https://dsbrut.sukzessiv.net/ https://dsbrut.sukzessiv.net/ </li>
   <li> NDS slot GPIO cartridge - DSerial EDGE  https://www.youtube.com/watch?v=ROGJcE0GTkk </li>
