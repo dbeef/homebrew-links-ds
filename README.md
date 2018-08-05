@@ -8,7 +8,15 @@ My set of of links to assets concerning NDS homebrew development
   <li> devkitPro toolchain installation https://devkitpro.org/wiki/Getting_Started </li>
   <li> libnds NDS examples https://github.com/devkitPro/nds-examples</li>
   <li> libctru N3DS examples https://github.com/devkitPro/3ds-examples </li>
-  <li> DSMenu++ <link> </li>
+  <li> DSMenu++ </li>
+  <ul>
+  
+  <li> Releases https://github.com/Robz8/DSiMenuPlusPlus/releases </li>
+  <li> Installation instructions https://gbatemp.net/threads/ds-i-3ds-dsimenu-ds-i-menu-replacement.472200/ </li> 
+  
+  </ul>
+  
+  <li> Index of homebrew software https://wiki.gbatemp.net/wiki/List_of_3DS_homebrew </li>
   
 </ul>
 
@@ -56,6 +64,49 @@ My set of of links to assets concerning NDS homebrew development
     <li> https://www.youtube.com/watch?v=cEd4GR8v24A </li>
   </ul>
 
+  <li> Quake 2 </li>
+  <ul>
+  
+  <li> https://github.com/masterfeizz/Quake2CTR </li>
+  <li> https://www.youtube.com/watch?v=wOtIDmAplmU </li>
+  
+  </ul>
+
+  <li> Quake 1 https://www.youtube.com/watch?v=2rspyM9Sk1g</li>
+  <li> LemmingsDS http://www.mrdictionary.net/lemmings/ </li>
+  <li> DSLiero http://dsliero.dennisvanzwieten.com/ </li>
+  
+  ///
+  
+  <li> Doom </li>
+  <ul>
+    <li> https://github.com/devinacker/prboom-3ds </li>
+    <li> https://www.youtube.com/watch?v=YT6T1o0uyWU </li>
+  </ul>
+  
+  <li> Minecraft (homebrew!) </li>
+  <ul>
+    <li> https://www.youtube.com/watch?v=wK4my8E8O3o </li>
+    <li> https://github.com/smealum/dscraft </li>
+    <li> https://github.com/smealum/3dscraft </li>
+  </ul>
+  
+  <li> DSLinux </li>
+  <ul>
+  
+    <li> https://www.youtube.com/watch?v=T-cMdRKsuas </ul>
+    <li> https://github.com/ipwndev/DSLinux </ul>
+  
+  </ul>
+
+  <li> NDS Oscilloscope https://github.com/Dabunew/NDS-Oscilloscope </li>
+
+  <li> NDS web browser https://github.com/deeice/bunjalloo</li>
+  <li> 3DS to PC controller https://github.com/jwarby/3ds-to-pc-controller </li>
+  <li> YoutubeDS https://github.com/Gericom/YoutubeDS </li>
+
+  <li> 3DS Remote desktop https://gbatemp.net/threads/homebrew-3ds-remote-desktop.381646/ </li>
+
 
 <h1 align="center"> External GPIO hardware </h1>
 
@@ -75,5 +126,5 @@ My set of of links to assets concerning NDS homebrew development
 <ul>
   
   <li> Open-hardware GB cartridge https://github.com/dwaq/Homebrew-Gameboy-Cartridge</li>
-  
+  <li> NESFlix https://github.com/no-carrier/NESFlix </li>
 </ul>
