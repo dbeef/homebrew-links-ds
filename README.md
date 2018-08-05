@@ -129,6 +129,12 @@ My set of of links to assets concerning NDS homebrew development
   <li> http://www.nds-gear.com/history-nintendo-ds-cards/ </li>
   <li> http://www.nds-gear.com/history-nintendo-ds-r4-card/ </li>   
   <li> 3DS Hacking scene history https://gbatemp.net/threads/3ds-hacking-scene-history.443396/ </li>
+  <li> https://arstechnica.com/civis/viewtopic.php?f=43&t=1099147 </li>
+  <li> https://www.pcworld.com/article/152678/nintendo_ds_secret.html </li>
+  <li> Tutorial-like document on NDS homebrew https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/5760/research.pdf?sequence=3 </li>
+  <li> Nintendo sues R4 makers https://arstechnica.com/gaming/2008/07/nintendo-no-friend-of-homebrew-market-sues-ds-cart-makers/ </li>
+  <li> Article on one of the most active programmers in the NDS scene https://www.eurogamer.net/articles/2014-11-21-student-homebrew-nintendo-3ds </li>
+  <li> Nintendo Offers Up To $20,000 To Hack the 3DS  https://it.slashdot.org/story/16/12/07/217221/nintendo-offers-up-to-20000-to-hack-the-3ds </li>
   
 </ul>
 
