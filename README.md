@@ -8,6 +8,7 @@ My set of of links to assets concerning NDS homebrew development
   <li> devkitPro toolchain installation https://devkitpro.org/wiki/Getting_Started </li>
   <li> libnds NDS examples https://github.com/devkitPro/nds-examples</li>
   <li> libctru N3DS examples https://github.com/devkitPro/3ds-examples </li>
+  <li> DSMenu++ <link> </li>
   
 </ul>
 
@@ -37,8 +38,23 @@ My set of of links to assets concerning NDS homebrew development
   </ul>
   
   <li> Heretic3DS https://github.com/elhobbs/heretic3ds </li>
-
+  
+  <li> DS2x86 (x86 emulator)</li>
+  <ul>
+    <li> https://dsx86.patrickaalto.com/ </li>
+    <li> https://gbatemp.net/threads/ds2x86-version-0-05-released.281935/ </li>
+    <li> Mortal Kombat https://www.youtube.com/watch?v=ZhNVlTzlRq4 </li>
+    <li> Fallout 1 https://www.youtube.com/watch?v=Xnfidy-n4jk </li>
+  </ul>
+  
 </ul>
+
+  <li> OpenTTD </li>
+  <ul>
+    <li> https://wiki.openttd.org/Nintendo_DS </li>
+    <li> https://www.youtube.com/watch?v=cEd4GR8v24A </li>
+    <li> https://www.youtube.com/watch?v=cEd4GR8v24A </li>
+  </ul>
 
 
 <h1 align="center"> External GPIO hardware </h1>
