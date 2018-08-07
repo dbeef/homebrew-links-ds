@@ -54,6 +54,7 @@ My set of of links to assets concerning NDS homebrew development
   <ul>
     <li> https://dsx86.patrickaalto.com/ </li>
     <li> https://gbatemp.net/threads/ds2x86-version-0-05-released.281935/ </li>
+    <li> http://dsx86compatibility.pbworks.com/w/page/26738915/Compatibility-List </li>
     <li> Mortal Kombat https://www.youtube.com/watch?v=ZhNVlTzlRq4 </li>
     <li> Fallout 1 https://www.youtube.com/watch?v=Xnfidy-n4jk </li>
   </ul>
